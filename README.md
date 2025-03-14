@@ -66,9 +66,8 @@ _Game Over Screen_
 ## Screencasts
 
 Watch the game in action:
+[![Gameplay Video](screenshots/snake_game.png)](screenshots/snake_game.webm)
 
-[![Gameplay Video](screenshots/snake_game.webm)]
-
-## Copyright
+Click the image above to watch the gameplay video.
 
 © 2023 Hamda Shahid. All rights reserved.
