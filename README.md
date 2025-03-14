@@ -1,39 +1,80 @@
-# Snake Game
+# Snake Game in C++
 
-This is a classic Snake game implemented with a modern design.
+Welcome to the Snake Game project! This is a classic Snake game implemented in C++ using procedural programming concepts. Enjoy the nostalgia of the retro Snake game with modern enhancements.
 
-## Screenshots
+## Table of Contents
 
-### Menu Screen
-![snake_menu](https://github.com/user-attachments/assets/d0d43d2b-ce4e-4714-82f5-53b1c5cd8352)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
+- [Screencasts](#screencasts)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Level Selection
-![snake_level](https://github.com/user-attachments/assets/aadd5d2b-cff1-4418-b7bd-28c31c490c65)
+## Introduction
 
-### Game Over Screen
-![snake_gameover](https://github.com/user-attachments/assets/a88443d0-ba2c-4c76-ab1d-77d44d3c0724)
-
-## How to Play
-- Use arrow keys (or touch controls if available) to move the snake.
-- Eat food to grow longer and increase your score.
-- Avoid hitting the walls and yourself.
-- Select difficulty levels from the level selection screen.
+The Snake Game is a simple game where the player maneuvers a snake to eat food, growing in size with each meal. The game ends if the snake collides with itself or the walls.
 
 ## Features
-- Different difficulty levels.
-- Interactive UI.
-- High score tracking.
+
+- Classic Snake gameplay
+- Simple and intuitive controls
+- Increasing difficulty with snake growth
+- Score tracking
 
 ## Installation
-1. Clone this repository:
+
+To run the Snake Game on your local machine, follow these steps:
+
+1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/snake-game.git
+   git clone https://github.com/hamdashahid/SnakeGame.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd snake-game
+   cd SnakeGame
    ```
-3. Run the game:
+3. Build the game using `make`:
    ```sh
-   python main.py
+   make
    ```
+4. Run the game:
+   ```sh
+   ./snakegame
+   ```
+
+## How to Play
+
+- Use the arrow keys to control the direction of the snake.
+- Eat the food to grow longer.
+- Avoid colliding with the walls or the snake's own body.
+- Try to achieve the highest score possible!
+
+## Screenshots
+
+![Game Start](screenshots/snake_menu.png)
+_Game Start Screen_
+
+![Gameplay](screenshots/snake_level.png)
+_Gameplay Screenshot_
+
+![Game Over](screenshots/snake_gameover.png)
+_Game Over Screen_
+
+## Screencasts
+
+Watch the game in action:
+
+[![Gameplay Video](screenshots/snake_game.webm)]
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Enjoy the game and happy coding!
