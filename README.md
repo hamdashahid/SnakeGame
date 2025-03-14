@@ -69,12 +69,6 @@ Watch the game in action:
 
 [![Gameplay Video](screenshots/snake_game.webm)]
 
-## Contributing
+## Copyright
 
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Enjoy the game and happy coding!
+© 2023 Hamda Shahid. All rights reserved.
