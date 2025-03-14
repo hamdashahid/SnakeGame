@@ -66,7 +66,7 @@ _Game Over Screen_
 ## Screencasts
 
 Watch the game in action:
-[![Gameplay Video](screenshots/snake_game.png)](screenshots/snake_game.webm)
+[![Gameplay Video](screenshots/snake_level.png)](screenshots/snake_game.webm)
 
 Click the image above to watch the gameplay video.
 
